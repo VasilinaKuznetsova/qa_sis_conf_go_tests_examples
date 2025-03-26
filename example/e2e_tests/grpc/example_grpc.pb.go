@@ -1,4 +1,4 @@
-package e2e_tests
+package grpc
 
 import (
 	"context"
