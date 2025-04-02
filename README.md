@@ -12,7 +12,11 @@
 Статьи на Habr:
 - Go, я создал: интегрируем Allure в Go красиво - https://habr.com/ru/companies/ozontech/articles/652707/
 - Go, я создал: пишем тесты на Allure-Go - https://habr.com/ru/companies/ozontech/articles/677690/
+- «Основы Go: Community edition» - https://habr.com/ru/articles/894356/
 
 
-Бесплатные курсы от OzonTech
-- Route256 - https://route256.ozon.ru/qa-engineer
+Бесплатные курсы:
+- Route256 от OzonTech - https://route256.ozon.ru/qa-engineer
+- Основы Go от Хекслет - https://ru.hexlet.io/courses/go-basics
+- PRO Go. Основы программирования на Stepik - https://stepik.org/course/158385/promo?search=6627314321
+
